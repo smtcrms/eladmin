@@ -133,7 +133,7 @@ eladmin-qt和eladmin-qd只是命名方式的区别，无其他区别
 
 |   微信  |   支付宝  |
 |--- | --- |
-|  ![](https://i.imgur.com/QJ2pqyg.png)   |  ![](https://i.imgur.com/eO95P7Q.png)  |
+|  ![](https://i.loli.net/2019/03/28/5c9c951c61a9a.png)   |  ![](https://i.loli.net/2019/03/28/5c9c95355fecb.png)  |
 
 #### 反馈交流
 
